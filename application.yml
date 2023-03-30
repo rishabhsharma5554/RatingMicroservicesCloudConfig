@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: default-config
+# Common Config all Microservices
 eureka:
   instance:
     prefer-ip-address: true
